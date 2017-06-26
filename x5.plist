@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.zyfbjzsc.com/admin/images/button1.gif</string>
+					<string>http://www.zyfbjzsc.com/admin/images/help_menu_list.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.zyfbjzsc.com/admin/images/button1.gif</string>
+					<string>http://www.zyfbjzsc.com/admin/images/help_menu_list.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
